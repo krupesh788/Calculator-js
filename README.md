@@ -1,3 +1,3 @@
 # calculator-js
- calculator js
-![calculator output](https://github.com/krupesh788/calculator-js/assets/71176180/45978df7-4bc6-40fb-811b-21c6a62b4a0d)
+ 
+![Simplecalculator](https://github.com/krupesh788/Calculator-js/assets/71176180/03756408-5f20-4121-98ea-4640145aa8b5)
